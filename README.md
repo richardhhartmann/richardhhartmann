@@ -21,4 +21,5 @@
 Apaixonado pela computação e por resolver problemas complexos desenvolvendo soluções inovadoras. Possuo formação sólida e habilidades técnicas com experiências em projetos e desenvolvimento de software.
 
 ### Últimos projetos:
-- [Lista circular em Python - Universidade Cidade de São Paulo (UNICID) | 4º período](https://www.google.com)<br/>
+- [Lista circular em Python - Universidade Cidade de São Paulo (UNICID) | 4º período]()<br/>
+- [Lista de exercícios em C - Universidade Cidade de São Paulo (UNICID) | 3º período]()<br/>
