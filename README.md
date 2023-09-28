@@ -8,7 +8,7 @@
 <br/>
 
 ### Linguagens do meu dia-a-dia:
-<div style="display: inline_block"> <br/>
+<div style="display: inline_block"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,6 +16,7 @@
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+<br/>
 
 Apaixonado pela computação e por resolver problemas complexos desenvolvendo soluções inovadoras. Possuo formação sólida e habilidades técnicas com experiências em projetos e desenvolvimento de software.
 
