@@ -1,5 +1,6 @@
 ### Olá! Meu nome é Richard Hartmann 👋
 
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://richardhenryhartmann.godaddysites.com/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-henry-hartmann-619b04170)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richardhhartmann/)
 
