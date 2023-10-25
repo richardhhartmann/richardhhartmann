@@ -23,4 +23,4 @@ Apaixonado pela computação e por resolver problemas complexos desenvolvendo so
 
 ### Últimos projetos:
 - [Lista circular em Python - Universidade Cidade de São Paulo (UNICID) | 4º período](https://github.com/richardhhartmann/lista_circular_python)<br/>
-- [Lista de exercícios em C - Universidade Cidade de São Paulo (UNICID) | 3º período]()<br/>
+- [Lista de exercícios em C - Universidade Cidade de São Paulo (UNICID) | 3º período](https://github.com/richardhhartmann/lista_exercicios_c)<br/>
